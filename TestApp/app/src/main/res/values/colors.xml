@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorDark">#1d2822</color>
+    <color name="colorBlue">#c6e2ff</color>
+    <color name="colorGreen">#00520a</color>
+    <color name="colorRed">#D50000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="bkg_card">#8C9EFF</color>
+
+</resources>

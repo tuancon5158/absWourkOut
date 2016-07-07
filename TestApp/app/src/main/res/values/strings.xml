@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="action_settings">Setting</string>
+    <string name="WorkOuts">WorkOuts</string>
+    <string name="Exercises">Exercise</string>
+    <string name="Setting">Setting</string>
+    <string name="more">More</string>
+    <string name="week1">Week 1</string>
+    <string name="week2">Week 2</string>
+    <string name="week3">Week 3</string>
+    <string name="week4">Week 4</string>
+    <string name="week5">Week 5</string>
+    <string name="week6">Week 6</string>
+    <string name="week7">Week 7</string>
+
+</resources>
